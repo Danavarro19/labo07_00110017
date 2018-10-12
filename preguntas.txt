@@ -1,0 +1,26 @@
+¿Qué es lo que contiene la variable container? 
+contiene el elemento con id c1 
+
+¿Qué visualiza en el navegador? 
+Hola mundo dento del elemento div con clase c1
+
+¿Qué es lo que se muestra en pantalla?
+un input dentro del elemento div con clase c1 
+
+¿Cuál es la diferencia entre las propiedades innerHtml e innerText?
+innerText recibe y devuelve el contenido en formato texto e innerHtml en formato HTML 
+
+¿Qué almacena containers?
+un arreglo con todos los elementos con la clase c2 
+
+¿Qué se mostrará en pantalla? 
+cambio en el fondo de color en todos los elementos con clase c2 
+
+¿Qué se mostrará en pantalla?
+un input dentro de todos los elementos con clase c2 
+
+¿Cuál es la diferencia entre las propiedas innerText e innerHTML? 
+innerText recibe y devuelve el contenido en formato texto e innerHtml en formato HTML
+
+¿Qué es lo que sucedera después de darle click al botón? 
+se mostrar un cuadro con la frase hola mundo

@@ -22,6 +22,7 @@ let boton = document.getElementById("btn-click");
     
     
 boton.onclick = evt => alert("Hola Mundo");
+
 btnCopy.onclick = evt => {
     let msj = document.getElementById('textMsj').value;
     document.getElementById('showMsj').innerText = msj;
